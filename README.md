@@ -5,5 +5,5 @@
 ##
 
 <p align="center">See what I'm working on here in my GitHub repo's or vist my
-  <a href="https://ajuarezse.github.io/website/">Portfolio Website</a>
+  <a href="https://angeljuarez.dev">Portfolio Website</a>
 </p>
