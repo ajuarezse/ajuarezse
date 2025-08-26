@@ -18,7 +18,7 @@
 `JavaScript ES6+` `React.js` `Node.js` `Express.js` `HTML5` `CSS3`
 
 **Backend & Database**  
-`MongoDB` `Mongoose` `MongoDB Atlas` `GraphQL` `RESTful APIs` `KeystoneJS`
+`MongoDB` `Mongoose` `MongoDB Atlas` `GraphQL` `RESTful APIs` `KeystoneJS` `Supabase`
 
 **Modern Tools & Libraries**  
 `Apollo` `Tailwind CSS` `Ant Design` `Jest` `ESLint` `Prettier` `Vite`
