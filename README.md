@@ -1,16 +1,16 @@
 # Angel Juarez | Full-Stack Developer
 
-**Professional React & Node.js Developer | Currently Contributing to Production Applications**
+**Professional React & Node.js Developer | Open to New Opportunities**
 
-> 🔥 **Active Developer:** Contributing to firefighter training management platform at Oregon Fire Chiefs Association  
-> 🚀 **Open to Opportunities:** Full-stack roles focusing on React, Node.js, and modern web technologies  
+> 🚀 **Actively Seeking:** Full-stack roles focusing on React, Node.js, and modern web technologies  
+> 💼 **Recent Experience:** Contributed to firefighter training management platform using React, GraphQL, and KeystoneJS  
 > 🌐 **Portfolio:** [angeljuarez.dev](https://angeljuarez.dev) | **Blog:** [Technical Insights](https://angeljuarez.dev/#/blog)
 
-## Current Work
-**Software Engineer Extern** at **Oregon Fire Chiefs Association** (2025 - Present)
-- Contributing to production training management software serving firefighters
-- Developing React components with **Tailwind CSS** and **Ant Design**
-- Working with **GraphQL, Apollo, and KeystoneJS** in collaborative Scrum environment
+## Recent Experience
+**Software Engineer Extern** at **Oregon Fire Chiefs Association** (2025)
+- Contributed to production training management software serving firefighters
+- Developed React components with **Tailwind CSS** and **Ant Design**
+- Worked with **GraphQL, Apollo, and KeystoneJS** in collaborative Scrum environment
 
 ## Technical Expertise
 
@@ -57,10 +57,6 @@ Interactive social platform for sharing travel experiences with photo uploads an
 
 **[Live Demo](https://ajuarezse.github.io/se_project_aroundtheus/)**
 
-### 🏆 **TripleTen Coding Challenge Winner**
-**First Place** - Lead Front-End Developer for custom countdown timer with timezone selection  
-**Audience Award** - Resource connection platform with city-based filtering
-
 ## Professional Recognition
 - **First Place Winner:** TripleTen Coding Challenge (Front-End Development)
 - **Audience Award:** Community resource platform development
@@ -73,4 +69,4 @@ Interactive social platform for sharing travel experiences with photo uploads an
 - 📝 **Technical Blog:** [Development insights and project breakdowns](https://angeljuarez.dev/#/blog)
 
 ---
-**Currently contributing to production applications** while exploring full-stack developer opportunities where I can leverage my React/Node.js expertise and collaborative development experience.
+**Available for new opportunities** in full-stack development where I can leverage my React/Node.js expertise and collaborative development experience.
