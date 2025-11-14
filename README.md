@@ -15,7 +15,7 @@
 ## Technical Expertise
 
 **Languages & Frameworks**  
-`JavaScript ES6+` `React.js` `Node.js` `Express.js` `HTML5` `CSS3`
+`JavaScript ES6+` `React.js` `Node.js` `Express.js` `HTML5` `CSS3` `Tailwind CSS`
 
 **Backend & Database**  
 `MongoDB` `Mongoose` `MongoDB Atlas` `GraphQL` `RESTful APIs` `KeystoneJS` `Supabase`
